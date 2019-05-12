@@ -1,0 +1,1 @@
+pip install flask flask-graphql flask-migrate flask-sqlalchemy graphene graphene-sqlalchemy
